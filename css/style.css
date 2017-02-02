@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+button {
+  background-color: #aaa;
+  border: 2px solid black;
+  color: black;
+  float: left;
+  font-size: 24px;
+  height: 100px;
+  margin: 40px;
+  width: 200px;
+}
+#button {
+  background-color: #aaa;
+  border: 2px solid black;
+  color: black;
+  float: left;
+  font-size: 24px;
+  height: 100px;
+  margin: 40px;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  width: 200px;
+}
+.button {
+  background-color: #aaa;
+  border: 2px solid black;
+  color: black;
+  float: left;
+  font-size: 24px;
+  height: 100px;
+  margin: 40px;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  width: 200px;
+}
