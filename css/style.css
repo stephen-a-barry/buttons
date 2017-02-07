@@ -5,6 +5,7 @@ button {
   background-color: #aaa;
   border: 2px solid black;
   color: black;
+  cursor: pointer;
   float: left;
   font-size: 24px;
   height: 100px;
@@ -28,6 +29,7 @@ button {
   background-color: #aaa;
   border: 2px solid black;
   color: black;
+  cursor: pointer;
   float: left;
   font-size: 24px;
   height: 100px;
